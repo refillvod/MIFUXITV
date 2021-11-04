@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Family",HBO Family East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Comedy",Pluto TV Comedy Central Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?
+EXTINF:-1 tvg-id="HistoryEast.us" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
